@@ -1,182 +1,262 @@
-# Hi there, I'm Hadisur Rahman 👋
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<img width="1039" height="552" alt="hasisur profiles940" src="https://github.com/user-attachments/assets/e350d2d7-b3cd-4cd1-8793-6660e1f420de" />
+# Hey, I'm Hadisur Rahman 👋
 
-### Data Analyst | Supply Chain Analytics | Business Intelligence | SQL • Power BI • Python • Excel
+### Data Analyst · Business Intelligence · Data Visualization
 
-I transform retail and supply chain data into business decisions.
+**SQL · Power BI · Python · Excel**
 
-Currently working as a **Supply Chain Executive** in Bangladesh with hands-on experience managing **2,500+ SKUs**, forecasting inventory worth **4+ Crore BDT**, optimizing stock availability across **10 retail stores**, and building automation tools using **SQL, Power BI, Excel, and Google Apps Script**.
+Turning business data into clear insights, meaningful dashboards, and better decisions.
 
-I'm transitioning into a **Data Analyst** role where I can combine business knowledge with analytics to build dashboards, automate reporting, and generate actionable insights.
+<br>
 
----
+<a href="https://www.linkedin.com/in/md-hadisur-rahman24">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:hadisurr.24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-### Professional Summary
-
-Data-driven Supply Chain Executive with practical experience in retail analytics, inventory optimization, procurement planning, vendor management, and business process automation. Experienced in forecasting demand for more than 2,500 SKUs across multiple retail stores, developing KPI dashboards in Power BI, writing SQL queries for business reporting, and automating operational workflows using Google Apps Script and Excel.
-
-Interested in solving business problems through data analysis, visualization, and predictive insights.
-
+</div>
 
 ---
 
 ## About Me
 
-* 📍 Based in Bangladesh.
-* 💼 Executive — Supply Chain Management (Retail).
-* 📊 Passionate about Data Analytics & Business Intelligence.
-* 🌱 Currently learning Python for Data Analysis, Advanced SQL, Statistics, and Machine Learning.
-* 🎯 Career Goal: Data Analyst / Business Analyst / Supply Chain Data Analyst.
-* 🚀 Building real-world retail analytics projects from business datasets.
+I am a **Data Analyst** focused on transforming raw business data into actionable insights using **SQL, Power BI, Excel, and Python**.
+
+My approach combines analytical thinking with practical business understanding. I enjoy working with datasets, identifying patterns, developing KPIs, building interactive dashboards, and communicating insights that support better decisions.
+
+### Current Focus
+
+- Data Analysis
+- SQL Analytics
+- Power BI & Business Intelligence
+- Python for Data Analysis
+- Data Visualization
+- KPI & Performance Analysis
+- Business Reporting
+- Dashboard Development
 
 ---
 
-## Tech Stack
+## Core Skills
 
-**Data Analytics**
-
-* SQL (PostgreSQL, SQL Server)
-* Power BI
-* Microsoft Excel (Advanced)
-* Google Sheets
-
-**Programming**
-* Google Apps Script (JavaScript)
-
-**Database**
-
-* PostgreSQL
-* SQL Server
-* Google Sheets Database
-
-**Business Tools**
-
-* ERP
-* Inventory Planning
-* Demand Forecasting
-* Procurement Analytics
-* Vendor Performance Analytics
+| Area | Skills |
+|---|---|
+| **Data Analysis** | Data Cleaning · EDA · Trend Analysis · KPI Analysis |
+| **SQL** | Joins · CTEs · Subqueries · Window Functions · Aggregations |
+| **Power BI** | DAX · Power Query · Data Modeling · Interactive Dashboards |
+| **Excel** | Pivot Tables · XLOOKUP · Data Analysis · Reporting |
+| **Python** | Pandas · NumPy · Matplotlib · Exploratory Data Analysis |
+| **Databases** | PostgreSQL · SQL Server |
+| **Business Analytics** | Performance Analysis · Insight Generation · Decision Support |
 
 ---
 
-## What I Work On
+## Technology Stack
 
-* 📈 Sales Analytics Dashboard
-* 📦 Inventory Optimization
-* 📊 Demand Forecasting
-* 🛒 Retail KPI Dashboard
-* 💰 Vendor Payment Automation
-* 📍 Store Performance Analysis
-* ⚙️ Business Process Automation
+### Analytics
 
----
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 
-## Featured Projects
+### Python Data Stack
 
-### Retail Sales Dashboard (Power BI)
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
+</p>
 
-Interactive dashboard for retail sales performance.
+### Databases
 
-**Features**
-
-* Revenue Analysis
-* Sales Trend
-* Category Performance
-* Store Comparison
-* Top Products
-* Customer Insights
-
-**Tools**
-Power BI • SQL • Excel
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+</p>
 
 ---
 
-### Inventory Forecasting System
+## Analytics Workflow
 
-Forecast purchase quantity using historical sales, growth trend, safety stock, and CTN rounding logic.
-
-**Features**
-
-* Weighted Average Sales
-* Safety Stock
-* Reorder Point
-* Stock Coverage (SCR)
-* Growth-Based Purchase Planning
-
-**Tools**
-Excel • SQL • Google Sheets
-
----
-
-### Vendor Performance Dashboard
-
-Measure vendor efficiency using operational KPIs.
-
-**KPIs**
-
-* OTIF Rate
-* Fill Rate
-* Lead Time
-* Purchase Value
-* Vendor Ranking
-
-**Tools**
-Power BI • SQL
+```text
+Business Question
+        ↓
+Data Collection
+        ↓
+Data Cleaning
+        ↓
+SQL / Python Analysis
+        ↓
+Exploratory Analysis
+        ↓
+Visualization
+        ↓
+Business Insights
+        ↓
+Decision Support
+```
 
 ---
 
-### Vendor Payment Management System
+## 📌 Featured Data Analytics Projects
 
-Automated vendor payment tracker built with Google Apps Script.
+### 📈 Retail Sales Analysis Dashboard
 
-**Features**
+An interactive Power BI dashboard designed to understand sales performance and uncover business trends.
 
-* Due Payment Tracking
-* Payment Status
-* Approval Workflow
-* Dashboard
-* Email Notifications
+**Analysis includes:**
 
-**Tools**
-Apps Script • Google Sheets • HTML
+- Revenue and sales trends
+- Product performance
+- Category analysis
+- Store comparison
+- Top and bottom products
+- KPI monitoring
+- Performance trends
 
----
-
-## Current Learning Roadmap (2026)
-
-* Advanced SQL
-* Python for Data Analysis
-* Pandas
-* NumPy
-* Matplotlib
-* Statistics
-* Machine Learning Basics
-* Data Cleaning
-* ETL
-* Data Warehousing
+**Tools:** `Power BI` `SQL` `Excel`
 
 ---
 
-## Connect With Me
+### 🧮 SQL Business Analysis Project
 
-* 💼 LinkedIn: *www.linkedin.com/in/md-hadisur-rahman24*
-* 📧 Email: *hadisurr.24@gmail.com*
-* 📍 Bangladesh
+A SQL-based analytics project focused on answering real-world business questions from structured datasets.
+
+**Analysis includes:**
+
+- Sales performance
+- Customer analysis
+- Product performance
+- Monthly trends
+- Ranking analysis
+- KPI calculations
+- Business segmentation
+
+**Tools:** `SQL` `PostgreSQL`
 
 ---
 
-### Quote
+### 📦 Inventory Forecasting System
 
-> *Turning business data into meaningful decisions through analytics and automation.*
+A planning and forecasting system designed to estimate purchase quantities using historical sales, growth trends, safety stock, stock coverage, and CTN rounding logic.
 
+**Features:**
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apps Script](https://img.shields.io/badge/AppsScript-34A853?style=for-the-badge&logo=googleappsscript&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- Weighted Average Sales
+- Safety Stock
+- Reorder Point
+- Stock Coverage (SCR)
+- Growth-Based Purchase Planning
+- Purchase Quantity Forecasting
+- CTN Rounding Logic
 
+**Tools:** `Excel` `Google Sheets` `SQL`
 
+---
+
+### 💳 Vendor Payment Management System
+
+An automated vendor payment tracking system built with Google Apps Script and Google Sheets.
+
+**Features:**
+
+- Due Payment Tracking
+- Payment Status Monitoring
+- Approval Workflow
+- Dashboard
+- Email Notifications
+- Payment Reporting
+
+**Tools:** `Google Apps Script` `Google Sheets` `HTML`
+
+---
+
+## 💡 Analytics Areas of Interest
+
+I am particularly interested in:
+
+- Data Analysis
+- Business Intelligence
+- Sales Analytics
+- Customer Analytics
+- Product Analytics
+- Business Performance Analysis
+- Financial & KPI Analysis
+- Retail Analytics
+- Supply Chain Analytics
+- Dashboard Development
+- Reporting Automation
+
+**Primary career focus:** Data Analyst / Business Analyst / BI Analyst
+
+---
+
+## 📚 Current Learning Roadmap
+
+### Core Data Analytics
+
+- [x] Excel
+- [x] Power BI
+- [x] SQL Fundamentals
+- [ ] Advanced SQL
+- [ ] Python for Data Analysis
+- [ ] Pandas
+- [ ] NumPy
+- [ ] Matplotlib
+- [ ] Statistics
+- [ ] Exploratory Data Analysis
+- [ ] Data Cleaning
+- [ ] ETL
+
+### Advanced Analytics
+
+- [ ] Advanced DAX
+- [ ] Data Modeling
+- [ ] Data Warehousing
+- [ ] Machine Learning Fundamentals
+- [ ] Predictive Analytics
+
+---
+
+## 🎯 What I Am Looking For
+
+I am currently focused on opportunities in:
+
+**Data Analyst • Business Analyst • BI Analyst • Junior Data Analyst • Reporting Analyst**
+
+I am especially interested in roles where I can work with data, build dashboards, analyze business performance, and turn analytical findings into practical recommendations.
+
+---
+
+## 📈 My Analytics Approach
+
+> **Ask the right question → Understand the data → Clean the data → Analyze → Visualize → Communicate the insight → Support the decision.**
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-hadisur-rahman24">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:hadisurr.24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+### Thanks for visiting my profile! 👋
+
+**Data • Insights • Decisions**
+
+</div>
