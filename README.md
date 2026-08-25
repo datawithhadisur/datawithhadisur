@@ -115,24 +115,6 @@ Power BI • SQL
 
 ---
 
-### Supply Chain KPI Dashboard
-
-Executive dashboard for inventory and procurement monitoring.
-
-**Metrics**
-
-* Stock Availability
-* Inventory Turnover
-* Slow Moving SKU
-* Dead Stock
-* Purchase vs Sales
-* Forecast Accuracy
-
-**Tools**
-Power BI
-
----
-
 ### Vendor Payment Management System
 
 Automated vendor payment tracker built with Google Apps Script.
